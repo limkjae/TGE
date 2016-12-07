@@ -64,5 +64,8 @@ Plot C and D represent maximum slip velocity (C) and observed stability (D). Obs
   :alt: image of my awesome project
   :align: center
   
-  
+**Problems and Further Upgrade Items**
+
+I expect this sponge-quake can reproduce substantial mechanism of natural earthquake in distributed frictional properties. But biggest problem of current shear box is that sampling interval is too large (~20ms) at Arduino analog input which is not enough to observe pre-slip and peak velocity in stick-slip motion. And also longer sponge is required to apply uniform normal and shear stress throughout the sponge body. Current boundary force application gives higher normal stress at sponge forward direction (fig 1) so normal stress reduces as the sponge slips. To have better measurements, several things can be upgraded such as multiple loading velocity, using gouge as a frictional property and/or multiple point to measure slip propagation. 
+
   
