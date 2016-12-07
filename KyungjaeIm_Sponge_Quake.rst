@@ -22,10 +22,7 @@ To fulfill to goal of the proposal, following items are required to be further s
 Fig. 1A shows simplified mechanical framework of proposed shear box. It shows how boundary normal and shear stresses sould be applied on the shearing metrical. Unstable patch will be placed on the bottom of the sponge and measurement will be made right on the top of the patch. Fig. 1B and 1C shows simulated normal and shear stress distributions after applying the boundary. The resulted stress field are not perfectly uniform, but may be good enough at least near the unstable patch.
 
 
-.. figure:: images/ex_image.png
-  :width: 300 px
-  :alt: image of my awesome project
-  :align: center
+.. figure:: pic1.png
   
 
 **Final Design**
